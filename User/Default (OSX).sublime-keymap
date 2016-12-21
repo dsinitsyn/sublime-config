@@ -1,0 +1,4 @@
+[
+    { "keys": ["alt+c"], "command": "insert", "args": {"characters": "console.log("} },
+    { "keys": ["alt+a"], "command": "insert", "args": {"characters": "alert("} }
+]

@@ -1,0 +1,22 @@
+{
+	"snippets": {
+
+		"html": {
+			"abbreviations": {
+				"example": "<div class='example' title='Custom element example'>"
+			}
+		},
+
+		"css": {
+			"snippets": {
+				"lol2": "@import url(|);"
+			}
+		},
+
+		"pug": {
+			"filters": "pug",
+			"extends": "jade",
+			"profile": "xml"
+		}
+	}
+}

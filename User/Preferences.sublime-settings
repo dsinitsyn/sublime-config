@@ -1,0 +1,16 @@
+{
+	"afn_valid_scopes":
+	[
+		"string",
+		"css",
+		"sass",
+		"less",
+		"scss",
+		"pug"
+	],
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"ignored_packages":
+	[
+		"Vintage"
+	]
+}
